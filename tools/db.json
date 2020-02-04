@@ -1,0 +1,144 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Securing React Apps with Auth0",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture 02",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components >>",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment >>",
+      "slug": "javascript-development-environment",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Building Applications with React and Redux",
+      "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Flux",
+      "slug": "react-flux-building-applications",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Clean Code: Writing Code for Humans",
+      "slug": "writing-clean-code-humans",
+      "authorId": 1,
+      "category": "Software Practices"
+    },
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 9,
+      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+      "slug": "career-reboot-for-developer-mind",
+      "authorId": 1,
+      "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Web Component Fundamentals",
+      "slug": "web-components-shadow-dom",
+      "authorId": 1,
+      "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "test",
+      "title": "test",
+      "authorId": 1,
+      "category": "horror",
+      "createdAt": 1580523122568
+    },
+    {
+      "id": 12,
+      "slug": "tet",
+      "title": "tet",
+      "authorId": 1,
+      "category": "commady and horror",
+      "createdAt": 1580523152311
+    },
+    {
+      "id": 13,
+      "slug": "software-engineer",
+      "title": "Software Engineer",
+      "authorId": 1,
+      "category": "sdfdf",
+      "createdAt": 1580523302857
+    },
+    {
+      "id": 14,
+      "slug": "d",
+      "title": "d >>",
+      "authorId": 2,
+      "category": "sd",
+      "createdAt": 1580523529911
+    },
+    {
+      "id": 15,
+      "slug": "tet",
+      "title": "tet",
+      "authorId": 1,
+      "category": "clasic",
+      "createdAt": 1580523649507
+    },
+    {
+      "id": 16,
+      "slug": "kk",
+      "title": "kk",
+      "authorId": 1,
+      "category": "commady",
+      "createdAt": 1580523929384
+    },
+    {
+      "id": 17,
+      "slug": "software-engineer",
+      "title": "Software Engineer",
+      "authorId": 2,
+      "category": "horror",
+      "createdAt": 1580532336349
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
